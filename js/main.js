@@ -9,7 +9,7 @@
     version: "0.64.8",
     files: {
       windows: { name: "Venheilheim-Windows.zip", size: "417 MB" },
-      android: { name: "Venheilheim-Android.apk", size: "410 MB" },
+      android: { name: "Venheilheim-Android.apk", size: "408 MB" },
       linux: { name: "Venheilheim-Linux.zip", size: "407 MB" },
     },
   };
